@@ -28,7 +28,7 @@
 link: [VIDEO](https://www.youtube.com/watch?v=wICw-4dLmTs) <br />
 link: [เนื้อหาสำหรับค้นว่า1](http://www.g-tech.ac.th/vdo/ELECTRICdoc/วิชาช่าง/E-BOOK%20BASIC%20ELECTRIC%20AND%20ELECTRONICS/อุปกรณ์อิเล็กทรอนิกส์และวงจร/บทที่%202%20วงจรเรียงกระแส.pdf) <br />
 link: [เนื้อหาสำหรับค้นว่า2](https://powerelectronics-21052112.blogspot.com/2019/05/rectifier-circuit.html) <br />
->> 1.จงอธิบายหลักการทำงานของ เรียงกระแสแบบครึ่งคลื่น <bt />
+>> 1.จงอธิบายหลักการทำงานของ เรียงกระแสแบบครึ่งคลื่น <br />
 >> 2.หากมีOUTPUT AC 16V ออกจากหม้อแปลงผ่านไปยังวงจรเรียงกระแสแบบครึ่งคลื่นจะมีแรงดัน VDC เท่ากับกี่โวล <br />
 #
 > ->วงจรเรียงกระแสแบบเต็มคลื่น full wave rectifier โดยใช้ไดโอด 2 ตัว และ centertap <br />
