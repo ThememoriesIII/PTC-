@@ -26,24 +26,24 @@
 #
 > ->วงจร เรียงกระแสแบบครึ่งคลื่น half wave rectifier โดยใช้ไดโอด 1 ตัว <br />
 link: [VIDEO](https://www.youtube.com/watch?v=wICw-4dLmTs) <br />
-link: [เนื้อหาสำหรับค้นว่า1](http://www.g-tech.ac.th/vdo/ELECTRICdoc/วิชาช่าง/E-BOOK%20BASIC%20ELECTRIC%20AND%20ELECTRONICS/อุปกรณ์อิเล็กทรอนิกส์และวงจร/บทที่%202%20วงจรเรียงกระแส.pdf) <bt />
-link: [เนื้อหาสำหรับค้นว่า2](https://powerelectronics-21052112.blogspot.com/2019/05/rectifier-circuit.html) <bt />
+link: [เนื้อหาสำหรับค้นว่า1](http://www.g-tech.ac.th/vdo/ELECTRICdoc/วิชาช่าง/E-BOOK%20BASIC%20ELECTRIC%20AND%20ELECTRONICS/อุปกรณ์อิเล็กทรอนิกส์และวงจร/บทที่%202%20วงจรเรียงกระแส.pdf) <br />
+link: [เนื้อหาสำหรับค้นว่า2](https://powerelectronics-21052112.blogspot.com/2019/05/rectifier-circuit.html) <br />
 >> 1.จงอธิบายหลักการทำงานของ เรียงกระแสแบบครึ่งคลื่น <bt />
->> 2.หากมีOUTPUT AC 16V ออกจากหม้อแปลงผ่านไปยังวงจรเรียงกระแสแบบครึ่งคลื่นจะมีแรงดัน VDC เท่ากับกี่โวล <bt />
+>> 2.หากมีOUTPUT AC 16V ออกจากหม้อแปลงผ่านไปยังวงจรเรียงกระแสแบบครึ่งคลื่นจะมีแรงดัน VDC เท่ากับกี่โวล <br />
 #
-> ->วงจรเรียงกระแสแบบเต็มคลื่น full wave rectifier โดยใช้ไดโอด 2 ตัว และ centertap  <br />
+> ->วงจรเรียงกระแสแบบเต็มคลื่น full wave rectifier โดยใช้ไดโอด 2 ตัว และ centertap <br />
 link: [VIDEO](https://www.youtube.com/watch?v=wMcPNPMOgjc) <br />
-link: [เนื้อหาสำหรับค้นว่า1](http://www.g-tech.ac.th/vdo/ELECTRICdoc/วิชาช่าง/E-BOOK%20BASIC%20ELECTRIC%20AND%20ELECTRONICS/อุปกรณ์อิเล็กทรอนิกส์และวงจร/บทที่%202%20วงจรเรียงกระแส.pdf) <bt />
-link: [เนื้อหาสำหรับค้นว่า2](https://powerelectronics-21052112.blogspot.com/2019/05/rectifier-circuit.html) <bt />
->> 1.จงอธิบายหลักการทำงานของ วงจรเรียงกระแสแบบเต็มคลื่น <bt />
->> 2.หากมีOUTPUT AC 24V ออกจากหม้อแปลงผ่านไปยังวงจรเรียงกระแสแบบครึ่งคลื่นจะมีแรงดัน VDC เท่ากับกี่โวล <bt />
+link: [เนื้อหาสำหรับค้นว่า1](http://www.g-tech.ac.th/vdo/ELECTRICdoc/วิชาช่าง/E-BOOK%20BASIC%20ELECTRIC%20AND%20ELECTRONICS/อุปกรณ์อิเล็กทรอนิกส์และวงจร/บทที่%202%20วงจรเรียงกระแส.pdf) <br />
+link: [เนื้อหาสำหรับค้นว่า2](https://powerelectronics-21052112.blogspot.com/2019/05/rectifier-circuit.html) <br />
+>> 1.จงอธิบายหลักการทำงานของ วงจรเรียงกระแสแบบเต็มคลื่น <br />
+>> 2.หากมีOUTPUT AC 24V ออกจากหม้อแปลงผ่านไปยังวงจรเรียงกระแสแบบครึ่งคลื่นจะมีแรงดัน VDC เท่ากับกี่โวล <br />
 #
 > ->วงจรเรียงกระแสแบบเต็มคลื่นแบบบริด full wave rectifier with bridge diode <br />
 link: [VIDEO](https://www.youtube.com/watch?v=VO1giThjsCU) <br />
-link: [เนื้อหาสำหรับค้นว่า1](http://www.g-tech.ac.th/vdo/ELECTRICdoc/วิชาช่าง/E-BOOK%20BASIC%20ELECTRIC%20AND%20ELECTRONICS/อุปกรณ์อิเล็กทรอนิกส์และวงจร/บทที่%202%20วงจรเรียงกระแส.pdf) <bt />
-link: [เนื้อหาสำหรับค้นว่า2](https://powerelectronics-21052112.blogspot.com/2019/05/rectifier-circuit.html) <bt />
->> 1.จงอธิบายหลักการทำงานของ วงจรเรียงกระแสแบบเต็มคลื่นแบบบริด <bt />
->> 2.หากมีOUTPUT AC 36V ออกจากหม้อแปลงผ่านไปยังวงจรเรียงกระแสแบบครึ่งคลื่นจะมีแรงดัน VDC เท่ากับกี่โวล <bt />
+link: [เนื้อหาสำหรับค้นว่า1](http://www.g-tech.ac.th/vdo/ELECTRICdoc/วิชาช่าง/E-BOOK%20BASIC%20ELECTRIC%20AND%20ELECTRONICS/อุปกรณ์อิเล็กทรอนิกส์และวงจร/บทที่%202%20วงจรเรียงกระแส.pdf) <br />
+link: [เนื้อหาสำหรับค้นว่า2](https://powerelectronics-21052112.blogspot.com/2019/05/rectifier-circuit.html) <br />
+>> 1.จงอธิบายหลักการทำงานของ วงจรเรียงกระแสแบบเต็มคลื่นแบบบริด <br />
+>> 2.หากมีOUTPUT AC 36V ออกจากหม้อแปลงผ่านไปยังวงจรเรียงกระแสแบบครึ่งคลื่นจะมีแรงดัน VDC เท่ากับกี่โวล <br />
 #
 > ->กำใช้ทรานซิสเตอร์เป็นสวิท <br />
 >> link: [VIDEO](https://www.youtube.com/watch?v=X1Ux1noN0w4) <br /> 
