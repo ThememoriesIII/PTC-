@@ -35,15 +35,15 @@ link: [เนื้อหาสำหรับค้นว่า2](https://power
 link: [VIDEO](https://www.youtube.com/watch?v=wMcPNPMOgjc) <br />
 link: [เนื้อหาสำหรับค้นว่า1](http://www.g-tech.ac.th/vdo/ELECTRICdoc/วิชาช่าง/E-BOOK%20BASIC%20ELECTRIC%20AND%20ELECTRONICS/อุปกรณ์อิเล็กทรอนิกส์และวงจร/บทที่%202%20วงจรเรียงกระแส.pdf) <br />
 link: [เนื้อหาสำหรับค้นว่า2](https://powerelectronics-21052112.blogspot.com/2019/05/rectifier-circuit.html) <br />
->> 1.จงอธิบายหลักการทำงานของ วงจรเรียงกระแสแบบเต็มคลื่น <br />
->> 2.หากมีOUTPUT AC 24V ออกจากหม้อแปลงผ่านไปยังวงจรเรียงกระแสแบบครึ่งคลื่นจะมีแรงดัน VDC เท่ากับกี่โวล <br />
+>> 1.จงอธิบายหลักการทำงานของ วงจรเรียงกระแสแบบเต็มคลื่นด้วยไดโอดสองตัวและหม้อแปลงแบบเซนเตอร์แทป <br />
+>> 2.หากมีOUTPUT AC 24V ออกจากหม้อแปลงผ่านไปยังวงจรเรียงกระแสแบบเต็มคลื่นด้วยไดโอดสองตัวและหม้อแปลงเซ็นเตอร์แทปจะมีแรงดัน VDC เท่ากับกี่โวล <br />
 #
 > ->วงจรเรียงกระแสแบบเต็มคลื่นแบบบริด full wave rectifier with bridge diode <br />
 link: [VIDEO](https://www.youtube.com/watch?v=VO1giThjsCU) <br />
 link: [เนื้อหาสำหรับค้นว่า1](http://www.g-tech.ac.th/vdo/ELECTRICdoc/วิชาช่าง/E-BOOK%20BASIC%20ELECTRIC%20AND%20ELECTRONICS/อุปกรณ์อิเล็กทรอนิกส์และวงจร/บทที่%202%20วงจรเรียงกระแส.pdf) <br />
 link: [เนื้อหาสำหรับค้นว่า2](https://powerelectronics-21052112.blogspot.com/2019/05/rectifier-circuit.html) <br />
 >> 1.จงอธิบายหลักการทำงานของ วงจรเรียงกระแสแบบเต็มคลื่นแบบบริด <br />
->> 2.หากมีOUTPUT AC 36V ออกจากหม้อแปลงผ่านไปยังวงจรเรียงกระแสแบบครึ่งคลื่นจะมีแรงดัน VDC เท่ากับกี่โวล <br />
+>> 2.หากมีOUTPUT AC 36V ออกจากหม้อแปลงผ่านไปยังวงจรเรียงกระแสแบบเต็มคลื่นด้วยไดโอดแบบบริดจะมีแรงดัน VDC เท่ากับกี่โวล <br />
 #
 > ->กำใช้ทรานซิสเตอร์เป็นสวิท <br />
 >> link: [VIDEO](https://www.youtube.com/watch?v=X1Ux1noN0w4) <br /> 
