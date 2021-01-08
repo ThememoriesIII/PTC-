@@ -7,6 +7,7 @@
 > -> อิเล็กทรอนิกส์กำลังคือ (อ่านเอาเด้อบ่มีวิดีโอเด้) <br />
 >> link:[VIDEO](https://images-se-ed.com/ws/Storage/PDF/978616/083/9786160831074PDF.pdf) <br />
 >> 1.อิเล็กทรอนิกส์กำลลัง หมายความว่าอย่างไร <br />
+#
 > ->ไดโอด (Diode) <br />
 > ->ทรานซิสเตอร์(Bjt Bipolar junction transistor) (สองหัวข้อนี้ดูวีดีโอให้หมด รอสอบอย่างเดียว) <br />
 >> link: [VIDEO](https://www.youtube.com/watch?v=s7oauMyWPnU) <br />
