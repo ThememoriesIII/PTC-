@@ -5,12 +5,12 @@
 ##	เขียนใส่กระดาษมาส่ง มาส่งไม่ได้ถ่ายรูปกระดาษที่เขียนมา เขียนคำตอบให้ตรงคำถาม ไม่มีค่าน้ำหมึกเขียนเยอะไม่มีผล <br />
 ##	ถ้าขี้เกียจเขียนมีให้สอบออนไลน์ 200ข้อ 50 คะแนน  เวลาทำ 3ชั่วโมง30 นาที จับเวลาข้อละ 1 นาที บนเว็บ kahoot.it <br />
 > -> อิเล็กทรอนิกส์กำลังคือ (อ่านเอาเด้อบ่มีวิดีโอเด้) <br />
- >> link:[https://images-se-ed.com/ws/Storage/PDF/978616/083/9786160831074PDF.pdf](https://images-se-ed.com/ws/Storage/PDF/978616/083/9786160831074PDF.pdf) <br />
+ >> link:[VIDEO](https://images-se-ed.com/ws/Storage/PDF/978616/083/9786160831074PDF.pdf) <br />
  >> 1.อิเล็กทรอนิกส์กำลลัง หมายความว่าอย่างไร <br />
 > ->ไดโอด (Diode) <br />
 > ->ทรานซิสเตอร์(Bjt Bipolar junction transistor) (สองหัวข้อนี้ดูวีดีโอให้หมด รอสอบอย่างเดียว) <br />
- >> link: https://www.youtube.com/watch?v=s7oauMyWPnU <br />
- >> link: http://www.g-tech.ac.th/vdo/ELECTRICdoc/วิชาช่าง/E-BOOK%20BASIC%20ELECTRIC%20AND%20ELECTRONICS/อุปกรณ์อิเล็กทรอนิกส์/บทที่%202%20ไดโอด.pdf <br />
+ >> link: [VIDEO](https://www.youtube.com/watch?v=s7oauMyWPnU) <br />
+ >> link: [PDF](http://www.g-tech.ac.th/vdo/ELECTRICdoc/วิชาช่าง/E-BOOK%20BASIC%20ELECTRIC%20AND%20ELECTRONICS/อุปกรณ์อิเล็กทรอนิกส์/บทที่%202%20ไดโอด.pdf) <br />
  >> l 1.สสารบนโลก มี 3 ประเภทอะไรบาง <br />
  >> l 2.สารกึ่งตัวนำคืออะไร <br />
  >> l 3.การโดปคืออะไร <br />
@@ -23,14 +23,14 @@
  >> l 10.จงบอกโครงสร้างของทรานซิสเตอร์ ทั้งสองชนิด <br />
  >> l 11.จงบอกประเภทของทรานซิสเตอร์ที่ใช้ในงานอิเล็กทรอนิกส์ <br />
 ->วงจร เรียงกระแสแบบครึ่งคลื่น half wave rectifier โดยใช้ไดโอด 1 ตัว <br />
-link: https://www.youtube.com/watch?v=wICw-4dLmTs <br />
+link: [VIDEO](https://www.youtube.com/watch?v=wICw-4dLmTs) <br />
 ->วงจรเรียงกระแสแบบเต็มคลื่น full wave rectifier โดยใช้ไดโอด 2 ตัว และ centertap  <br />
-link: https://www.youtube.com/watch?v=wMcPNPMOgjc <br />
+link: [VIDEO](https://www.youtube.com/watch?v=wMcPNPMOgjc) <br />
 ->วงจรเรียงกระแสแบบเต็มคลื่นแบบบริด full wave rectifier with bridge diode <br />
-link: https://www.youtube.com/watch?v=VO1giThjsCU <br />
+link: [VIDEO](https://www.youtube.com/watch?v=VO1giThjsCU) <br />
 ->กำใช้ทรานซิสเตอร์เป็นสวิท <br />
 link: <br />
-link: https://commandronestore.com/learning/transistor001.php <br />
+link: [PDF](https://commandronestore.com/learning/transistor001.php) <br />
 จงออกแบบวงจรเปิดบิด led ต่อไปนี้ให้สมบูรณ์โดยการหาค่า RC และ RB <br />
 แหล่งจ่ายไฟเลี้ยงวงจรมีค่าแรงดันเท่ากับ 5V  <br />
 led ต้องการแรงดันตกคร่อม 3.4 V และ กระแสโหลด 60mA เพื่อให้ติดสว่าง <br />
