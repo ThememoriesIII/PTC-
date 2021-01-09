@@ -9,7 +9,7 @@
  1.อิเล็กทรอนิกส์กำลลัง หมายความว่าอย่างไร <br />
 #
 > ->ไดโอด (Diode) <br />
-> ->ทรานซิสเตอร์(Bjt Bipolar junction transistor) (สองหัวข้อนี้ดูวีดีโอให้หมด รอสอบอย่างเดียว) <br />
+> ->ทรานซิสเตอร์(Bjt Bipolar junction transistor) <br />
  link: [VIDEO](https://www.youtube.com/watch?v=s7oauMyWPnU) <br />
  link: [เนื้อหาสำหรับค้นคว้า](http://www.g-tech.ac.th/vdo/ELECTRICdoc/วิชาช่าง/E-BOOK%20BASIC%20ELECTRIC%20AND%20ELECTRONICS/อุปกรณ์อิเล็กทรอนิกส์/บทที่%202%20ไดโอด.pdf) <br />
 >> 1.สสารบนโลก มี 3 ประเภทอะไรบาง <br />
